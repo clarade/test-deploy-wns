@@ -31,7 +31,7 @@ function App() {
 		<div>
 			<Header>
 				<Container>
-					<h1>Super wilders book</h1>
+					<h1>Encore un super wilders book</h1>
 				</Container>
 			</Header>
 			<Container>
